@@ -4,7 +4,7 @@
 *.RAWMIPI filter=lfs diff=lfs merge=lfs -text
 *.RAWMIPI10 filter=lfs diff=lfs merge=lfs -text
 *.RAWMIPI12 filter=lfs diff=lfs merge=lfs -text
-*.DNG filter=lfs diff=lfs merge=lfs -text
+*.dng filter=lfs diff=lfs merge=lfs -text
 *.bmp filter=lfs diff=lfs merge=lfs -text
 *.tif filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
